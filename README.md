@@ -1,3 +1,10 @@
-<h1 align="center">Hi there, I'm Timur 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am a beginner frontend developer</h3>
+### Hi there 👋, my name is Timur
+#### I am a beginner frontend developer
+At this stage I am posting pet projects here)
+
+Skills:  JS / HTML / CSS/Git
+ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ortima)  
+
