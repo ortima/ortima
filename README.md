@@ -2,7 +2,7 @@
 #### I am a beginner frontend developer
 At this stage I am posting pet projects here)
 
-Skills:  JS / HTML / CSS/Git
+Skills:  JS / HTML / CSS / React /Git
  
 
 
