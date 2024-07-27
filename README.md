@@ -179,13 +179,13 @@
       </a>
       <br>GraphQL
     </td>
-  </tr>
   <td align="center" width="110" height="90"> 
       <a href="##tech-stack" >
         <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
+      </tr>
 </table>
 
 > Management Project
