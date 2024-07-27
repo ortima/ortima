@@ -222,8 +222,8 @@
 
 <h2 align="left" id="contact">📞 Contact</h2>
 
-- **[GitHub](https://github.com/ortima)**
+- :file_folder: &nbsp; **[GitHub](https://github.com/ortima)**
 - :airplane: &nbsp;**[Telegram](https://t.me/t1mkaaa)**
-
+- :mailbox: &nbsp; **[E-mail](mailto:account.net@mail.ru)**
 ---
 
