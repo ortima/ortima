@@ -1,7 +1,7 @@
 
 
 <h1 align="left">Hi there 👋, my name is Timur</h1>
-<h3 align="left">I am a beginner frontend developer</h3>
+<h3 align="left">I am frontend developer</h3>
 <h3 align="left">At this stage I am posting pet-projects here :)</h3>
 
 <h2 align="left" id="tech-stack">🔥 Tech stack</h2>
