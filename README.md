@@ -16,6 +16,12 @@
       </a>
       <br>JavaScript
     </td>
+      <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
@@ -47,14 +53,58 @@
       </a>
       <br>Next JS
     </td>
-  <td align="center" width="110" height="90">
+    <td align="center" width="110" height="90">
       <a href="#tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
       </a>
-      <br>TypeScript
+      <br>GraphQL
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="36" height="36" alt="GraphQL" />
+      </a>
+      <br>Socket IO
     </td>
  </tr>
 </table>
+
+> Testing
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90"> 
+      <a href="#tech-stack" >
+        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
+        <td align="center" width="110" height="90"> 
+      <a href="#tech-stack" >
+        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
+      </a>
+      <br>Storybook
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#tech-stack">
+        <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="36" height="36" alt="cypress" />
+      </a>
+      <br>Cypress
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+        <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="playwright" />
+      </a>
+      <br>Playwright
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="36" height="36" alt="Vitest" />
+      </a>
+      <br>Vitest
+    </td>
+  </tr> 
+</table>
+
 
 > State Management
 
@@ -71,6 +121,12 @@
         <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="36" height="36" alt="Tanstack Query" />
       </a>
       <br>Tanstack Query
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#tech-stack" >
+        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="36" height="36" alt="Apollo" />
+      </a>
+      <br>Apollo
     </td>
   </tr>
 </table>
@@ -99,9 +155,9 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack">
-        <img src="https://seeklogo.com/images/S/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png?v=638421451470000000" width="36" height="36" alt="ShadCn UI" />
+        <img src="https://simpleicons.org/icons/shadcnui.svg" width="36" height="36" alt="ShadCn UI" />
       </a>
-      <br>ShadCn UI
+      <br>Shadcn/ui
     </td>
    <td align="center" width="110" height="90">
       <a href="#tech-stack">
@@ -129,6 +185,12 @@
       </a>
       <br>Prettier
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Prettier" />
+      </a>
+      <br>Stylelint
+    </td>
   </tr>
 </table>
 
@@ -147,6 +209,12 @@
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
       </a>
       <br>Webpack
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="36" height="36" alt="Webpack" />
+      </a>
+      <br>Docker
     </td>
   </tr>
 </table>
@@ -172,12 +240,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" />
       </a>
       <br>MongoDB
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
-      </a>
-      <br>GraphQL
     </td>
   <td align="center" width="110" height="90"> 
       <a href="##tech-stack" >
