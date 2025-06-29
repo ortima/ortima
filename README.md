@@ -3,7 +3,7 @@
 <h1 align="left">Hi there 👋, my name is Timur</h1>
 <h3 align="left">I am frontend developer</h3>
 <h3 align="left">Currently, I am focusing on studying algorithms, data structures, and design patterns.</h3>
-<img src="https://www.codewars.com/users/ortima/badges/large" />
+<!-- <img src="https://www.codewars.com/users/ortima/badges/large" /> -->
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ortima?theme=dark&font=JetBrains%20Mono)
 
